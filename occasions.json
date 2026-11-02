@@ -1,0 +1,15 @@
+
+{
+  "version": 1,
+  "calendars": [
+    {
+      "country": "SA",
+      "hijriYear": 1447,
+      "ramadanStart": "2026-02-18",
+      "fitrStart": "2026-03-20",
+      "fitrEnd": "2026-03-22",
+      "adhaStart": "2026-05-27",
+      "adhaEnd": "2026-05-30"
+    }
+  ]
+}
